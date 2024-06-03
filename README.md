@@ -8,7 +8,7 @@ Ascii- art Web is application that allows users to draw chars as ascii chars bas
 
 ### How to Run the Program
 1. install Golang in your computer
-2. Clone the repo from gitea
+2. Clone the repo from GitHub
 3. Open the terminal in the root directory
 4. whithin the terminal Run `go run main.go` or `go run main.go` 
 5. Open new tab in browser open this URL `http://localhost:8080`.
